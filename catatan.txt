@@ -1,0 +1,25 @@
+-----untuk pembeli-----
+Jika pembayaran belum dilakukan
+maka tampilkan pesan "menunggu pembayaran"
+
+selain itu jika pembayaran sudah dilakukan
+maka tampilkan pesan "menunggu konfirmasi pembayaran"
+
+jika pembayaran sudah dikonfirmasi
+maka tampilkan pesan "Pembayaran lunas"
+
+jika barang sudah sampai
+maka tampilkan barang sudah diterima
+
+-----untuk admin-----
+Jika pembayaran belum dilakukan
+maka tampilkan pesan "menunggu pembayaran"
+
+selain itu jika pembayaran sudah dilakukan
+maka tampilkan pesan "konfirmasi pembayaran"
+
+jika konfirmasi pembayaran sudah dilakukan
+maka tampilkan pesan "kirim barang"
+
+selain itu jika kirim barang sudah dilakukan
+maka tampikan pesan "barang sudah dikirim"
